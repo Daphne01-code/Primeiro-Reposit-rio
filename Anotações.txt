@@ -1,0 +1,2 @@
+Para testar a conectividade da sua internet, o comando ping google.com é enviado ao terminal de rede. Ele mede a latência (tempo de resposta) e a perda de pacotes entre o seu dispositivo e os servidores do Google, garantindo que sua conexão esteja estável.
+Para realizar o teste no Windows: Abra o Prompt de Comando (cmd) em segundos pressionando as teclas Windows + R, clique nele e digite ping google.com
